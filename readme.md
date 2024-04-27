@@ -1,1 +1,1 @@
-This is a webapge for bookstore using html, css, java script
+This is a webpage for bookstore using html, css, java script
